@@ -1,0 +1,27 @@
+---
+title: "Introduction"
+---
+
+<!-- Use a grid -->
+::: {.grid}
+
+<!-- Left column has a width of 4/12 and shows a picture of austin -->
+::: {.g-col-4}
+![](images/austin.jpg){width=3in}
+:::
+
+<!-- Text gets a column with width 8/12 -->
+::: {.g-col-8}
+
+
+Austin, Texas, has emerged as one of the most dynamic and rapidly growing cities in the United States, experiencing a substantial influx of residents and job opportunities in recent years. However, this rapid growth has strained the housing market and construction, leading to a significant disparity between supply and demand. Consequently, the housing prices in Austin have faced a steep upward trend. 
+
+Recognizing the challenges posed by this scenario, for our MUSA 550 final project we propose the development of a comprehensive project aimed at modeling the housing market and predicting housing prices based on a diverse set of housing characteristics. This initiative is designed to provide valuable insights for users, inform policy decisions, and assist consultants in navigating the evolving real estate landscape in Austin.
+
+
+::: 
+
+:::
+
+
+

@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Anderson High School", "rating": 3.5 }, "geometry": { "type": "Point", "coordinates": [ -97.7533577, 30.3761432 ] } },
+{ "type": "Feature", "properties": { "name": "Austin High School", "rating": 4.5 }, "geometry": { "type": "Point", "coordinates": [ -97.7667348, 30.2735577 ] } },
+{ "type": "Feature", "properties": { "name": "Hyde Park High School", "rating": 4.3 }, "geometry": { "type": "Point", "coordinates": [ -97.730028, 30.4081675 ] } },
+{ "type": "Feature", "properties": { "name": "McCallum High School", "rating": 4.3 }, "geometry": { "type": "Point", "coordinates": [ -97.7303741, 30.3255451 ] } },
+{ "type": "Feature", "properties": { "name": "Navarro Early College High School", "rating": 4.5 }, "geometry": { "type": "Point", "coordinates": [ -97.707733499999989, 30.3609061 ] } },
+{ "type": "Feature", "properties": { "name": "James Bowie High School", "rating": 2.6 }, "geometry": { "type": "Point", "coordinates": [ -97.8584973, 30.1876535 ] } },
+{ "type": "Feature", "properties": { "name": "Crockett High School", "rating": 4.3 }, "geometry": { "type": "Point", "coordinates": [ -97.7968231, 30.2133957 ] } },
+{ "type": "Feature", "properties": { "name": "Premier High School - Austin South", "rating": 3.7 }, "geometry": { "type": "Point", "coordinates": [ -97.783437, 30.226571 ] } },
+{ "type": "Feature", "properties": { "name": "Eastside Early College High School", "rating": 3.9 }, "geometry": { "type": "Point", "coordinates": [ -97.709357400000016, 30.2688727 ] } },
+{ "type": "Feature", "properties": { "name": "LBJ High School", "rating": 4.0 }, "geometry": { "type": "Point", "coordinates": [ -97.656667, 30.313495 ] } },
+{ "type": "Feature", "properties": { "name": "Alpha High School", "rating": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -97.7451078, 30.2647718 ] } },
+{ "type": "Feature", "properties": { "name": "Westlake High School", "rating": 3.9 }, "geometry": { "type": "Point", "coordinates": [ -97.8125269, 30.2756168 ] } },
+{ "type": "Feature", "properties": { "name": "Westwood High School", "rating": 3.7 }, "geometry": { "type": "Point", "coordinates": [ -97.7977569, 30.4561495 ] } },
+{ "type": "Feature", "properties": { "name": "Northeast Early College High School", "rating": 3.9 }, "geometry": { "type": "Point", "coordinates": [ -97.689582500000014, 30.3224959 ] } },
+{ "type": "Feature", "properties": { "name": "Cedars International Next Generation High School", "rating": 4.7 }, "geometry": { "type": "Point", "coordinates": [ -97.7091117, 30.3277721 ] } },
+{ "type": "Feature", "properties": { "name": "McNeil High School", "rating": 3.3 }, "geometry": { "type": "Point", "coordinates": [ -97.7332482, 30.4492728 ] } },
+{ "type": "Feature", "properties": { "name": "Premier High School - Austin Wells Branch", "rating": 3.4 }, "geometry": { "type": "Point", "coordinates": [ -97.6968872, 30.4379379 ] } },
+{ "type": "Feature", "properties": { "name": "William B. Travis High School", "rating": 3.6 }, "geometry": { "type": "Point", "coordinates": [ -97.7441854, 30.2329676 ] } },
+{ "type": "Feature", "properties": { "name": "KIPP Austin Brave High School", "rating": 2.6 }, "geometry": { "type": "Point", "coordinates": [ -97.7571194, 30.2024628 ] } },
+{ "type": "Feature", "properties": { "name": "San Juan Diego Catholic High School", "rating": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -97.761661, 30.2406946 ] } }
+]
+}

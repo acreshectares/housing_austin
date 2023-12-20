@@ -1,0 +1,34 @@
+---
+title: "Data and Methodology"
+subtitle: "An Analysis Using Random Forest"
+---
+
+## Data Source
+
+*Web Scraping Zillow Apartments*
+
+Extracting real-time housing data from Zillow will provide a wealth of information on current property listings, sales history, and key features of residences in Austin. This data will serve as a foundational element for our predictive model.
+
+*Census API Demographic Data*
+
+Utilizing the Census API will enable us to incorporate demographic information, including population trends, income levels, and household composition. 
+
+*Open Data Portal Geographic Information*
+
+Accessing geographic information from open data portals will enrich our model with location-specific details. This includes factors such as neighborhood amenities, crime rates, and proximity to essential services, providing a holistic view of the housing market dynamics.
+
+
+::: {.callout-important}
+All data acquired complies with regulations.
+:::
+
+## Methodology
+
+Our approach will involve training a Random Forest model, which will be trained using the joined dataset, encompassing a diverse range of block-level demographic, geographical, and housing characteristics.
+
+
+
+
+
+
+ 

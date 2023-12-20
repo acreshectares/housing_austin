@@ -1,0 +1,3 @@
+# Random Forest Model
+
+This section includes the model building process using the dataset we generated to explore the realtionships between various varibles and housing prices in Austin in order to predict housing prices more acurrately.

@@ -1,0 +1,29 @@
+---
+title: "Conclusion"
+---
+
+<!-- Use a grid -->
+::: {.grid}
+
+<!-- Left column has a width of 4/12 and shows a picture of austin -->
+::: {.g-col-4}
+![](images/austin.jpg){width=3in}
+:::
+
+<!-- Text gets a column with width 8/12 -->
+::: {.g-col-8}
+
+
+Austin, Texas, has undergone remarkable growth, emerging as one of the most dynamic cities in the United States, attracting a substantial influx of residents and job opportunities. However, this rapid expansion has placed immense strain on the local housing market and construction industry, resulting in a pronounced imbalance between supply and demand. As a consequence, housing prices in Austin have witnessed a sharp upward trajectory.
+
+In response to these challenges, we developed a robust model with a mean R-square value of 0.737. This model leverages a comprehensive dataset encompassing Zillow housing listings, crime reports, school data, census information, and numerous engineered variables. Our goal is to provide predictions of housing prices, empowering users to make well-informed decisions regarding both rental and purchase considerations.
+
+Beyond individual decision-making, our model offers valuable insights for policymakers grappling with the complex dynamics of Austin's housing market. By understanding the underlying factors influencing housing price trends, policymakers can formulate informed strategies to address the evolving needs of the community and promote sustainable growth.
+
+
+::: 
+
+:::
+
+
+

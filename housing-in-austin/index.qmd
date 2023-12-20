@@ -1,0 +1,40 @@
+---
+title: "Predictive Modeling of Housing Prices in Austin, Texas"
+subtitle: "An Analysis Using Random Forest"
+---
+
+## Welcome
+
+This is the website of our final project for MUSA 550 at Penn.
+
+<div style="text-align: center;">
+  ![](images/austin3.jpg){width=10in}
+</div>
+
+## Meet the team
+
+We are second-year graduate students majoring in City Planning with a concentration in transportation planning.
+
+Evan Zhao
+
+Ke Zhou
+
+## Find out more
+
+The code for this project is hosted on the GitHub page: [https://github.com/MUSA-550-Fall-2023/quarto-website-template](https://github.com/MUSA-550-Fall-2023/quarto-website-template).
+
+## Contact us
+
+Ke Zhou :
+kezhou@upenn.edu
+
+Evan Zhao :
+yanbing@upenn.edu
+
+
+
+
+
+
+
+ 

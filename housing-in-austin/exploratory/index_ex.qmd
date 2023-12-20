@@ -1,0 +1,4 @@
+# Data Exploration
+
+This section includes acuiring and transformig the data of housing, demographics and other spatial characteristics, and some exploratory analysis to better understand the existing conditions of housing markets in Austin.
+
